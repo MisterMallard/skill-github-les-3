@@ -1,1 +1,2 @@
-# skill-github-les-3
+## Mijn aanpassing
+- README bijgewerkt op <vul datum in>
